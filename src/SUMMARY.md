@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction]()
+[Introduction](intro.md)
 [Why Write a Compiler?]()
 [Tools You Didn't Know Were Compilers]()
 [Contributing]()
