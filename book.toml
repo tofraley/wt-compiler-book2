@@ -3,4 +3,4 @@ authors = ["Taylor Fraley"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Building Computer Languages and Language Tools"
+title = "Compilers By Example"
